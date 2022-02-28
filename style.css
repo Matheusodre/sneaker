@@ -1,3 +1,83 @@
 body{
     background-image: url(prsneaker.jpg);
+}
+
+img.simpreforce{
+    height: 500px;
+}
+
+img{
+    width: 500px;
+    border-radius: 25%;
+    position: relative;
+    left: center;
     
+}
+
+div.tenis{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+
+}
+a.electro:hover{
+    color: #FB5607
+}
+a.electro:active{
+    color: #FB5607;
+}
+.electro{
+    color: black;
+    text-decoration: underline #FB5607;
+}
+a.pollen:hover{
+    color: #FFBF00;
+}
+a.pollen:active{
+    color: #FFBF00;
+}
+.pollen{
+    color: black;
+    text-decoration: underline #FFBF00;
+}   
+a.dunkfamilia:hover{
+    color: #095256;
+}
+a.dunkfamilia:active{
+    color: #095256;
+}
+.dunkfamilia{
+    color: black;
+    text-decoration: underline #095256;
+}   
+
+a.siempreforce:hover{
+    color: #FB5607
+}
+a.siempreforce:active{
+    color: #FB5607;
+}
+.siempreforce{
+    color: black;
+    text-decoration: underline #FB5607;
+}
+a.mummy:hover{
+    color: beige
+}
+a.mummy:active{
+    color: beige;
+}
+.mummy{
+    color: black;
+    text-decoration: underline beige;
+}        
+a.chocolate:hover{
+    color: #6a6157;
+}
+a.chocolate:active{
+    color: #6a6157;
+}
+.chocolate{
+    color: black;
+    text-decoration: underline #6a6157;;
+} 
