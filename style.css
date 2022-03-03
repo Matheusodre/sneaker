@@ -1,6 +1,12 @@
 body{
     background-image: url(prsneaker.jpg);
 }
+header{
+    font-size: 50px;
+}
+li{
+    font-size: 35px;    
+}
 
 img.simpreforce{
     
